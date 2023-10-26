@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>MyCalc</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div id="wrapper">
+    <!-- <h6>MyCalc</h6> -->
+
+    <pre type="text" id="display"></pre>
+
+    <div class="btn-container">
+      <button class="btn" onclick="addToDisp('(')">(</button>
+      <button class="btn" onclick="addToDisp(')')">)</button>
+      <button class="btn" onclick="clearDisplay()">C</button>
+      <button class="btn" onclick="addRemove()">DEL</button>
+      <button class="btn" onclick="addToDisp('+')">+</button>
+      <button class="btn" onclick="addToDisp('1')">1</button>
+      <button class="btn" onclick="addToDisp('2')">2</button>
+      <button class="btn" onclick="addToDisp('3')">3</button>
+      <button class="btn" onclick="addToDisp('-')">-</button>
+      <button class="btn" onclick="addToDisp('4')">4</button>
+      <button class="btn" onclick="addToDisp('5')">5</button>
+      <button class="btn" onclick="addToDisp('6')">6</button>
+      <button class="btn" onclick="addToDisp('*')">*</button>
+      <button class="btn" onclick="addToDisp('7')">7</button>
+      <button class="btn" onclick="addToDisp('8')">8</button>
+      <button class="btn" onclick="addToDisp('9')">9</button>
+      <button class="btn" onclick="addToDisp('/')">/</button>
+      <button class="btn" onclick="addToDisp('.')">.</button>
+      <button class="btn" onclick="addToDisp('0')">0</button>
+      <button class="btn btn-sp" onclick="addEqualTo()">=</button>
+    </div>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+</html>
