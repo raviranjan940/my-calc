@@ -63,3 +63,29 @@ body{
 .btn:hover {
   background-color: #676363;
 }
+
+/* 26-10-2023 --> Ravi Ranjan  */
+
+@media screen and (max-device-width: 640px) {
+  #wrapper{
+    width: 80%;
+    height: 60%;
+    margin:0 auto;
+  }
+  
+  #display{
+    padding-top: 25px;
+    height: 130px;
+    font-size: 50px;
+  }
+
+  .btn-container{
+    padding-top: 5px;
+  }
+
+  .btn{
+    width: 193px;
+    height: 130px;
+    font-size: 45px;
+  }
+}
