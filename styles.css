@@ -73,6 +73,7 @@ body{
 @media screen and (max-device-width: 300px) {
   #wrapper{
     width: 90%;
+    height: 63%;
   }
   
   #display{
@@ -86,8 +87,8 @@ body{
   }
 
   .btn{
-    width: 216px;
-    height: 155px;
+    width: 218px;
+    height: 165px;
     font-size: 45px;
   }
 }
