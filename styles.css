@@ -70,7 +70,7 @@ body{
 
 /* 26-10-2023 --> Ravi Ranjan  */
 
-@media screen and (max-device-width: 300px) {
+@media screen and (max-width: 300px) {
   #wrapper{
     width: 90%;
     height: 63%;
