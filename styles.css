@@ -67,9 +67,10 @@ body{
 
 @media screen and (max-device-width: 300px){
   #wrapper{
-    width: 90%;
-    height: 63%;
-
+    width: 60%;
+    height: 70%;
+    display: flex;
+    flex-basis: 30%;
   }
   
   #display{
