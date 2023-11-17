@@ -29,7 +29,7 @@ You can check out a live demo [here](https://raviranjan940.github.io/my-calc/).
 
 ## Screenshots
 
-![Calculator Screenshot]([https://github.com/raviranjan940/my-calc/blob/main/Screenshot%202023-11-17%20224840.png])
+![Calculator Screenshot]([Screenshot 2023-11-17 224840.png])
 
 ## Contributing
 
