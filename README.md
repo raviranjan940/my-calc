@@ -1,10 +1,5 @@
-# my-calc
 
-
-https://raviranjan940.github.io/my-calc/
-
-
-# JavaScript Calculator
+# my-calc : JavaScript Calculator
 
 Welcome to the JavaScript Calculator project! This simple calculator is built using HTML, CSS, and JavaScript to provide basic arithmetic operations.
 
@@ -30,11 +25,11 @@ cd javascript-calculator
 
 ## Demo
 
-You can check out a live demo [here](#).
+You can check out a live demo [here](https://raviranjan940.github.io/my-calc/).
 
 ## Screenshots
 
-![Calculator Screenshot](screenshots/calculator.png)
+![Calculator Screenshot]([screenshots/calculator.png](https://github.com/raviranjan940/my-calc/blob/main/Screenshot%202023-11-17%20224840.png))
 
 ## Contributing
 
