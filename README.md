@@ -39,10 +39,7 @@ If you'd like to contribute to the project, feel free to fork the repository and
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/yourusername/javascript-calculator/issues).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 Ravi Ranjan
+
 Happy calculating! 🧮
