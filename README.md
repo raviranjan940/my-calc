@@ -37,7 +37,7 @@ If you'd like to contribute to the project, feel free to fork the repository and
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/yourusername/javascript-calculator/issues).
+If you encounter any issues or have suggestions for improvement, please [open an issue]((https://github.com/raviranjan940/my-calc/issues)https://github.com/raviranjan940/my-calc/issues).
 
 ## Author
 Ravi Ranjan
