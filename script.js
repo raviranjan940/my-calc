@@ -48,6 +48,13 @@ function addEqualTo() {
   updateDisplay();
 }
 
+//dot operation
+function appendDot(val) {
+  if (currDisp === "." && currDisp.include(".")) return;
+  currDisp += val;
+  updateDisplay();
+}
+
 // Attach handleOverflow to window resize event
 //window.addEventListener("resize", handleOverflow);
 
