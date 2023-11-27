@@ -2,7 +2,7 @@
 # my-calc : JavaScript Calculator
 
 Welcome to the JavaScript Calculator project! This simple calculator is built using HTML, CSS, and JavaScript to provide basic arithmetic operations.
-
+MyCalc 
 ## Features
 
 - Addition, subtraction, multiplication, and division operations.
