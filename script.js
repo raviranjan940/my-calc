@@ -13,7 +13,7 @@ document.querySelector('#display').value = currDisp;
 let resultDisp=false;
 
 function addToDisp(value) {
-  if (val === '.' && currDisp.includes('.')) return;
+  if (value === '.' && currDisp.includes('.')) return;
   if (currDisp === "" || resultDisp) {
     currDisp = value;
   } else {
