@@ -13,6 +13,7 @@ document.querySelector('#display').value = currDisp;
 let resultDisp=false;
 
 function addToDisp(value) {
+  if (val === '.' && currDisp.includes('.')) return;
   if (currDisp === "" || resultDisp) {
     currDisp = value;
   } else {
@@ -48,12 +49,6 @@ function addEqualTo() {
   updateDisplay();
 }
 
-//dot operation
-function appendDot(val) {
-  if (currDisp === "." && currDisp.include(".")) return;
-  currDisp += val;
-  updateDisplay();
-}
 
 // Attach handleOverflow to window resize event
 //window.addEventListener("resize", handleOverflow);
